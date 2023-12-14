@@ -1,0 +1,20 @@
+Espressuino_v1.2_SCH  --- 08.10.13
+
+Added: C22 - 100nF capacitor for Volumetric sensor interrupt pin.
+
+Modified: R13, Q2, Backlight control removed. Now LCD_D7 is connected to this pin.
+          Volumetric sensor pulse output, connected to PD2 ( INT0 interrupt pin).
+          ADC7 connections removed.
+            
+
+---------------------------------------------------------------------------------------------------
+
+Espressuino_v1.1_SCH  --- 02.09.13
+
+Added: R23 and R24 current limiting resistors for SSRs (Grinder and Electrovalve)
+
+Modified: C13 from 10nF to 1uF for more stable readings of pressure.
+          Electrovalve control connected to PB1 and Buzzer connected to PB5.
+          There was a problem with using PB5 for Electrovalve. 
+          This pin is always activated at startup by the bootloader, for a fraction of a second.
+  
