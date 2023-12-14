@@ -59,11 +59,11 @@ Added LCD and Bluetooth support and some modifications to the software of [BBCC 
 
 **Documentation for connecting to Gaggia Classic :**
 - For SW v3.0 and HW v1.2 (or above):
-   - [Controller PID Espressuino Doc_v1.6 ( Romanian )]()
-   - [Controller PID Espressuino Doc_v1.6 ( Hungarian )]()
+   - [Controller PID Espressuino Doc_v1.6 ( Romanian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_ROM_1.6.pdf)
+   - [Controller PID Espressuino Doc_v1.6 ( Hungarian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_HUN_1.6.pdf)
 - For older SW and HW:
-   - [Controller PID Espressuino Doc_v1.5 ( Romanian )]()
-   - [Controller PID Espressuino Doc_v1.5 ( Hungarian )]()
+   - [Controller PID Espressuino Doc_v1.5 ( Romanian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino.pdf)
+   - [Controller PID Espressuino Doc_v1.5 ( Hungarian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_HUN.pdf)
 - Circuit Diagram :
   - Espressuino v1.2  —  Changelog
   - Espressuino v1.1  
