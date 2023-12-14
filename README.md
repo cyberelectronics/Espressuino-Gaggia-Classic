@@ -19,11 +19,11 @@ Added LCD and Bluetooth support and some modifications to the software of [BBCC 
 
 **Functions:**
 
-Bluetooth Support (HC-06 module, v3.1)
-Manual or Automatic mode
- Manual:  Start (Stop) the pump manually for max. 99 seconds or Volume in ml (+ Preinfusion)
- Automatic: The pump will start automatically when the temperature reach the set value (Duration in Seconds or (Volume) = Preinfusion + (Shot value) )
-Time or Volumetric Mode (TIM / VOL, v3.0)
+- [Bluetooth Support](http://youtu.be/Yxo30Qk1L_w) (HC-06 module, v3.1)
+- [Manual or Automatic mode](http://youtu.be/DuDwQY8FdDg)
+   * **Manual:**  Start (Stop) the pump manually for max. 99 seconds or Volume in ml (+ Preinfusion)
+   * **Automatic:** The pump will start automatically when the temperature reach the set value (Duration in Seconds or (Volume) = Preinfusion + (Shot value) )
+- [Time or Volumetric Mode](http://youtu.be/Kw45bSvZ_xM) (TIM / VOL, v3.0)
 Espresso and Steam temperature settings
      Espresso temperature:  min. 60°C  –  max. 110°C
      Steam temperature:      min. 100°C  –  max. 155°C
