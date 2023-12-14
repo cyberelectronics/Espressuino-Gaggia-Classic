@@ -59,21 +59,21 @@ Added LCD and Bluetooth support and some modifications to the software of [BBCC 
 
 **Documentation for connecting to Gaggia Classic :**
 - For SW v3.0 and HW v1.2 (or above):
-   - [Controller PID Espressuino Doc_v1.6 ( Romanian )]()
-   - [Controller PID Espressuino Doc_v1.6 ( Hungarian )]()
+   - [Controller PID Espressuino Doc_v1.6 ( Romanian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_ROM_1.6.pdf)
+   - [Controller PID Espressuino Doc_v1.6 ( Hungarian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_HUN_1.6.pdf)
 - For older SW and HW:
-   - [Controller PID Espressuino Doc_v1.5 ( Romanian )]()
-   - [Controller PID Espressuino Doc_v1.5 ( Hungarian )]()
+   - [Controller PID Espressuino Doc_v1.5 ( Romanian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino.pdf)
+   - [Controller PID Espressuino Doc_v1.5 ( Hungarian )](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Controller_PID_Espressuino_HUN.pdf)
 - Circuit Diagram :
   - Espressuino v1.2  —  Changelog
   - Espressuino v1.1  
 - Arduino and Android (for v3.1) Source Code :
-  - Espressuino v3.1  — BT Support + Excel File
-  - Espressuino v3.0  — Changelog
-  - Espressuino v2.0
-  - Espressuino v1.9
-  - Espressuino v1.8
-  - Espressuino v1.7   
+  - [Espressuino v3.1](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/espressuino_v3.1_BT_Last.zip)  — BT Support + [Excel File](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espresso_1_graph.xls)
+  - [Espressuino v3.0](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espressuino_v3.0.zip)  — [Changelog](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/changelog_SCH.txt)
+  - [Espressuino v2.0](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espressuino_v2.0.zip)
+  - [Espressuino v1.9](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espressuino_v1.9.zip)
+  - [Espressuino v1.8](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espressuino_v1.8.zip)
+  - [Espressuino v1.7](https://github.com/cyberelectronics/Espressuino-Gaggia-Classic/blob/main/Docu/Espressuino_v1.7.zip)   
 
 **P4 Connector pinout:**
 
