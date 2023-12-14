@@ -123,4 +123,10 @@ Added LCD and Bluetooth support and some modifications to the software of [BBCC 
 - S3 – ” A / M / + ” – Auto (Mode) / Manual (Mode) / Increment
 - S4 – ” STM / ESP ” – Steam (Mode) / Espresso (Mode)
 
-  
+**Other Softwares and drivers needed for this project:**
+
+  - [Arduino](http://arduino.cc/en/Main/Software) (tested with 0022 and 1.0.5)
+  - [Processing](http://www.processing.org/download/) (for BBCC Plotter)
+  - [BBCC Plotter](http://playground.arduino.cc/Main/BBCCPlotter) (for PID tuning)
+  - [Android Developer Tools](http://developer.android.com/sdk/index.html?hl=sk) (optional)
+  - [CP2102 USB driver](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)  
