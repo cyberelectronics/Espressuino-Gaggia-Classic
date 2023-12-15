@@ -1,7 +1,7 @@
 # Espressuino-Gaggia-Classic
 **Espressuino – DIY PID, Bluetooth and Preheat Coil on Gaggia Classic**
 
-This is a multifunctional Homemade PID controller ([more info here](http://www.cyberelectronics.org/?p=315)), based on Arduino, connected to my Gaggia Classic espresso machine. If you are interested in a [Raspberry PI project, take a look at here](http://int03.co.uk/blog/project-coffee-espiresso-machine/).
+This is a multifunctional Homemade PID controller ([more info here](https://github.com/cyberelectronics/Espressuino-Saeco-Poemia)), based on Arduino, connected to my Gaggia Classic espresso machine. If you are interested in a [Raspberry PI project, take a look at here](http://int03.co.uk/blog/project-coffee-espiresso-machine/).
 Added LCD and Bluetooth support and some modifications to the software of [BBCC (BareBones Coffee Controller) project by Tim Hirzel](http://playground.arduino.cc/Main/BarebonesPIDForEspresso) and to the [TC4 Android App by Brad](http://code.google.com/p/tc4-shield/downloads/detail?name=TC4%20Android%20App_2_1.zip&can=2&q=) ( Thank you! )
 
 1) Espressuino on Gaggia Classic Test 1: https://youtu.be/K2JoDAo2rsk
